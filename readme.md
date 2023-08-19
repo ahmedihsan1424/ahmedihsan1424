@@ -1,0 +1,3 @@
+- free and open source
+- c/c++
+- godot
